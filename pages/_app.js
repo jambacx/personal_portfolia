@@ -1,12 +1,12 @@
 import Head from "next/head";
-import { Fragment } from "react";
+import {Fragment} from "react";
 import "../styles/globals.css";
 
-function MyApp({ Component, pageProps }) {
+function MyApp({Component, pageProps}) {
   return (
     <Fragment>
       <Head>
-        <title>Cvio - Resume/CV React NextJS Template</title>
+        <title>Jamba Ganzorig</title>
 
         <link
           href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap&subset=cyrillic"
